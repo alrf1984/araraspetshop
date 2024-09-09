@@ -127,14 +127,6 @@ informações necessárias.
 • Em seguida a tela de agendamento tanto de banho como de tosa com
 as seleções e preços disponíveis.
 
-• Por fim, a página de pagamento com as opções de pagamento,
-valores e itens.
-
-• Caso queiram acessar o projeto diretamente no FIGMA para tirar
-algumas dúvidas, deixo aqui também o link aberto para acesso direto
-ao projeto:
-https://www.figma.com/file/8SL6wUEnxc1yDQHWd3V24d/PetOffice?type=design&nodeid=0%3A1&mode=design&t=tNevbpVvkV233UO0-1
-
 # Autor do Projeto
 
 <a href="https://github.com/francatti"> Nicholas Francatti </a>
