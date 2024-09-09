@@ -126,7 +126,3 @@ informações necessárias.
 
 • Em seguida a tela de agendamento tanto de banho como de tosa com
 as seleções e preços disponíveis.
-
-# Autor do Projeto
-
-<a href="https://github.com/francatti"> Nicholas Francatti </a>
